@@ -1,0 +1,19 @@
+.but{
+    display: flex;
+    justify-content: center;
+}
+.fo form{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 33%;
+    flex-wrap: wrap;
+}
+
+.tit{
+   display: flex;
+   justify-content: center;
+   
+}
